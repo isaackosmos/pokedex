@@ -1,2 +1,2 @@
-# pokedex
+# Pokedex
 Projeto de uma Pokedex para treinar Html, Css e JavaScript :)
