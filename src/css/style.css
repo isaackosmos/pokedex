@@ -111,3 +111,10 @@ main .poke-card:hover {
 
   font-size: 14px;
 }
+
+footer {
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  padding: 15px;
+}
