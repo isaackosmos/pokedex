@@ -58,7 +58,7 @@ main .poke-card:hover {
   background-color: #96d9d6;
   transform: scale(1.05);
 }
-.modo-escuro .cartao-pokemon {
+.dark-mode .poke-card {
   background-color: #a8a8a8;
 }
 
